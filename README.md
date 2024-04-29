@@ -12,3 +12,7 @@ When the typed word is a true word, then a letter check is performed.\
 
 https://github.com/gabrielamalec/WordleGame/assets/118200664/01a07c51-70c9-488d-a164-d96d006192cd
 
+
+
+https://github.com/gabrielamalec/WordleGame/assets/118200664/2bca0e0e-5bb0-4beb-b580-f5ddeb94c623
+
