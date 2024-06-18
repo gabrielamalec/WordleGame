@@ -8,7 +8,7 @@ When the typed word is a true word, then a letter check is performed.\
 • If the letter is in the word, but not entered in the correct place, the field turns orange.\
 • If the typed letter is not in the word at all, the field is gray.
 
-# Video
+# Preview
 
 https://github.com/gabrielamalec/WordleGame/assets/118200664/2bca0e0e-5bb0-4beb-b580-f5ddeb94c623
 
